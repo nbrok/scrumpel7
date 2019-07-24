@@ -1,1 +1,1 @@
-Here you find the hex file for programming the boot EPROM.
+Here you find the hex files for booting CP/M with monitorprogram first bank, and 56K basic in second bank. Program this in a 32K PROM.
