@@ -7,4 +7,4 @@ NOTES:
 
 1. On the silkscreen 74HCT573AN is printed, this must be 74HCT574AN.
 2. The square solder joints on the leds must be connected to the Kathode (Short pin of LED).
-3. The SPI conections are made for microSD module and the RTC DS3234 module.
+3. The SPI connections are made for microSD module and the RTC DS3234 module.
